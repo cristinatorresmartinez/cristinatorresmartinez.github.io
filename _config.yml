@@ -1,11 +1,11 @@
 # Site settings
 author: Cristina Torres Martinez
-title: 
+title: The Times of a Newb
 header-img: img/home-bg.png
 email: c.torres.martinez.97@gmail.com
 copyright_name: Cristina Torres Martinez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Memoir... But Not
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cristinatorresmartinez
